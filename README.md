@@ -1,1 +1,1 @@
-# https://ozolinala.github.io/The-big_fat_string-exercise/
+# https://ozolinala.github.io/The-big-fat-string-exercise/
